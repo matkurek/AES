@@ -1,0 +1,19 @@
+﻿<Window x:Class="BSK_ProjektAES.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BSK_ProjektAES"
+        mc:Ignorable="d"
+        Title="BSK_ProjektAES" Height="431.2" Width="525" Background="Gray">
+    <Grid>
+        <Button x:Name="button" Content="Wybierz Plik" Click="button_Click" HorizontalAlignment="Left" Margin="395,54,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox x:Name="FileNameText" HorizontalAlignment="Left" Height="23" Margin="78,51,0,0" TextWrapping="Wrap" Text="Ścieżka pliku..." VerticalAlignment="Top" Width="312"/>
+        <Button x:Name="button1" Click="button1_Click"  Content="Zaszyfruj" HorizontalAlignment="Left" Margin="395,102,0,0" VerticalAlignment="Top" Width="75" Height="58"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="115" Margin="78,102,0,0" VerticalAlignment="Top" Width="127"/>
+        <TextBox x:Name="infoBox" HorizontalAlignment="Left" Height="109" Margin="78,247,0,0" TextWrapping="Wrap" Background="FloralWhite"  Text="" VerticalAlignment="Top" Width="392"/>
+        <Label x:Name="label" Content="Log" HorizontalAlignment="Left" Margin="259,221,0,0" VerticalAlignment="Top" Height="26" Width="32"/>
+        <Label x:Name="label1" Content="Wybór metody szyfrowania" HorizontalAlignment="Left" Margin="78,80,0,0" FontSize="9" FontWeight="Bold"  VerticalAlignment="Top" Width="127"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+D:\165460\BSK\BSK_ProjektAES\BSK_ProjektAES\bin\Debug\BSK_ProjektAES.exe.config
+D:\165460\BSK\BSK_ProjektAES\BSK_ProjektAES\bin\Debug\BSK_ProjektAES.exe
+D:\165460\BSK\BSK_ProjektAES\BSK_ProjektAES\bin\Debug\BSK_ProjektAES.pdb
+D:\165460\BSK\BSK_ProjektAES\BSK_ProjektAES\obj\Debug\BSK_ProjektAES.csprojResolveAssemblyReference.cache
+D:\165460\BSK\BSK_ProjektAES\BSK_ProjektAES\obj\Debug\MainWindow.g.cs
+D:\165460\BSK\BSK_ProjektAES\BSK_ProjektAES\obj\Debug\App.g.cs
+D:\165460\BSK\BSK_ProjektAES\BSK_ProjektAES\obj\Debug\BSK_ProjektAES_MarkupCompile.cache
+D:\165460\BSK\BSK_ProjektAES\BSK_ProjektAES\obj\Debug\BSK_ProjektAES_MarkupCompile.lref
+D:\165460\BSK\BSK_ProjektAES\BSK_ProjektAES\obj\Debug\MainWindow.baml
+D:\165460\BSK\BSK_ProjektAES\BSK_ProjektAES\obj\Debug\BSK_ProjektAES.g.resources
+D:\165460\BSK\BSK_ProjektAES\BSK_ProjektAES\obj\Debug\BSK_ProjektAES.Properties.Resources.resources
+D:\165460\BSK\BSK_ProjektAES\BSK_ProjektAES\obj\Debug\BSK_ProjektAES.csproj.GenerateResource.Cache
+D:\165460\BSK\BSK_ProjektAES\BSK_ProjektAES\obj\Debug\BSK_ProjektAES.exe
+D:\165460\BSK\BSK_ProjektAES\BSK_ProjektAES\obj\Debug\BSK_ProjektAES.pdb
